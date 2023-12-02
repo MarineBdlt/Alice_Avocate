@@ -16,11 +16,11 @@ title = "Marine Bap"
 [author]
   name = "Marine Bap"
   image = "marine.jpeg"
-#   headline = "Psychologue clinicienne diplomée d'Etat"
+  headline = "Ajaccio - Cours Napoléon"
    bio = "A little bit about you"
    links = [
     { email = "mailto:marine.deletangbap@gmail.com" },
-    { phone = "tel:+33665340073" },
+    { phone = "tel:0665340073" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
