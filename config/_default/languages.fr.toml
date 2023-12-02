@@ -13,13 +13,13 @@ title = "Marine Bap"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-# [author]
-#   name = "Your name here"
-#   image = "img/blowfish_logo.png"
-#   headline = "I'm only human"
-#   bio = "A little bit about you"
-#   links = [
-#     { email = "mailto:hello@your_domain.com" },
+[author]
+  name = "Marine Bap"
+  image = "marine.jpeg"
+#   headline = "Psychologue clinicienne diplomée d'Etat"
+   bio = "A little bit about you"
+   links = [
+    { email = "mailto:marine.deletangbap@gmail.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
@@ -33,7 +33,7 @@ title = "Marine Bap"
 #     { foursquare = "https://foursquare.com/username" },
 #     { github = "https://github.com/username" },
 #     { gitlab = "https://gitlab.com/username" },
-#     { google = "https://www.google.com/" },
+     { google = "https://www.google.com/" },
 #     { hashnode = "https://username.hashnode.dev" },
 #     { instagram = "https://instagram.com/username" },
 #     { keybase = "https://keybase.io/username" },
@@ -59,7 +59,7 @@ title = "Marine Bap"
 #     { twitch = "https://twitch.tv/username" },
 #     { twitter = "https://twitter.com/username" },
 #     { x-twitter = "https://twitter.com/username" },
-#     { whatsapp = "https://wa.me/phone-number" },
+     { whatsapp = "https://wa.me/0665340073" },
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
-#   ]
+   ]
