@@ -11,12 +11,17 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Bilans"
+  name = "Articles"
   pageRef = "bilans"
   weight = 10
 
 [[main]]
-  name = "Tests"
+  name = "Questions"
+  pageRef = "tests"
+  weight = 10
+
+[[main]]
+  name = "A propos de moi"
   pageRef = "tests"
   weight = 10
 

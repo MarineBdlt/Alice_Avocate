@@ -1,7 +1,7 @@
 languageCode = "fr"
 languageName = "Français"
 weight = 1
-title = "Marine Bap"
+title = "Maître Alice Bap"
 
 [params]
   displayName = "FR"
@@ -14,8 +14,8 @@ title = "Marine Bap"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
-  name = "Marine Bap"
-  image = "marine.jpeg"
+  name = "Maître Alice Bap"
+  image = "Alice_portrait_avocat.png"
   headline = "Ajaccio - Cours Napoléon"
    bio = "A little bit about you"
    links = [
