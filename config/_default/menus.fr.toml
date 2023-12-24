@@ -12,17 +12,17 @@
 
 [[main]]
   name = "Articles"
-  pageRef = "bilans"
+  pageRef = "articles"
   weight = 10
 
 [[main]]
   name = "Questions"
-  pageRef = "tests"
+  pageRef = "questions"
   weight = 10
 
 [[main]]
   name = "A propos de moi"
-  pageRef = "tests"
+  pageRef = "parcours"
   weight = 10
 
 #[[main]]
@@ -65,7 +65,7 @@
 
 
 [[footer]]
-   name = "À Ajaccio - Cabinet Cours Napoléon"
+   name = "À Paris - Cabinet - Adresse"
    pageRef = "about"
    weight = 10
 

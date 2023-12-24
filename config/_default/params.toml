@@ -12,7 +12,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = false
 
-mainSections = ["bilans", "tests"]
+mainSections = ["articles", "questions"]
 # robots = ""
 
 disableImageOptimization = true
@@ -38,7 +38,7 @@ disableImageOptimization = true
   layout = "background" # valid options: page, profile, hero, card, background, custom
   homepageImage = "background.png" # used in: hero, and card
   showRecent = true
-  showRecentItems = 5
+  showRecentItems = 3
   showMoreLink = false
   showMoreLinkDest = "/posts"
   cardView = true
