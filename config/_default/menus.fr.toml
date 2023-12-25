@@ -21,7 +21,7 @@
   weight = 10
 
 [[main]]
-  name = "A propos de moi"
+  name = "Son parcours"
   pageRef = "parcours"
   weight = 10
 
@@ -65,7 +65,7 @@
 
 
 [[footer]]
-   name = "À Paris - Cabinet - Adresse"
+   name = "À Paris - 75006"
    pageRef = "about"
    weight = 10
 
