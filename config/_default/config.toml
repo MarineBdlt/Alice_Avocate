@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://marinebdlt.github.io/psycho/"
+baseURL = "https://marinebdlt.github.io/alice_avocate/"
 defaultContentLanguage = "fr"
 langageCode = "fr"
 
