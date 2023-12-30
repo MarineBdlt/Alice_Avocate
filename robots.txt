@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://marinebdlt.github.io/alice_avocate/sitemap.xml
