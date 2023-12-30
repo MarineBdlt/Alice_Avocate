@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://marinebdlt.github.io/Alice_Avocate/sitemap.xml
+Sitemap: https://www.bap-avocat.com/sitemap.xml
